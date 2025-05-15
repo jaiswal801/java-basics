@@ -1,0 +1,13 @@
+public class VariableDemo {
+    public static void main(String[] args) {
+        int age = 19;
+        double height = 6.1;
+        char grade = 'A';
+        String name = "Swayam";
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Height: " + height + " ft");
+        System.out.println("Grade: " + grade);
+    }
+}
